@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    background-image:url("green.jpg");
+    background-position:unset;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+h1{
+    text-align: center;
+    color:white;
+}
+.navbar1 ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color:white;
+    overflow: hidden;
+}
+
+.navbar1 a{
+    color:black;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    text-align: center;
+}
+
+
+
+.navbar1 a:hover{
+    background-color:white;
+}
+
+.navbar1 li{
+    float:left;
+}
+.navbar1 ol{
+    display: block;
+    float:inline-end;
+    padding: 2px;
+}
